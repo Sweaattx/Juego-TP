@@ -1,0 +1,4 @@
+C:\Users\Piero\Desktop\Diseño Final\Trabajo Parcial TP\Trabajo Parcial TP\x64\Debug\Trabajo Parcial TP.vcxproj.AssemblyReference.cache
+C:\Users\Piero\Desktop\Diseño Final\Nueva carpeta (2)\Trabajo Parcial TP\Trabajo Parcial TP\x64\Debug\Trabajo Parcial TP.vcxproj.AssemblyReference.cache
+C:\Users\Piero\Desktop\Diseño Final\TP\Trabajo Parcial TP\Trabajo Parcial TP\x64\Debug\Trabajo Parcial TP.vcxproj.AssemblyReference.cache
+C:\Users\Piero\Desktop\Portafolioo\TP\Trabajo Parcial TP\Trabajo Parcial TP\x64\Debug\Trabajo Parcial TP.vcxproj.AssemblyReference.cache

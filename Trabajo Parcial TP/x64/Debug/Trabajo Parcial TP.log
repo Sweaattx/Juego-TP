@@ -1,0 +1,12 @@
+﻿  Aliado.cpp
+  Enemigo.cpp
+  GestorJuego.cpp
+  Jugador.cpp
+  main.cpp
+  Mapa.cpp
+  ObjetoJuego.cpp
+  Recurso.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Aliado.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Trabajo Parcial TP.vcxproj -> C:\Users\Piero\Desktop\Portafolioo\TP\Trabajo Parcial TP\x64\Debug\Trabajo Parcial TP.exe
